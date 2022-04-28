@@ -1,0 +1,3 @@
+[submodule "DFV-Artifact"]
+	path = DFV-Artifact
+	url = https://github.com/less-lab-uva/DFV-Artifact.git
